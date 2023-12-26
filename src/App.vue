@@ -2,7 +2,5 @@
   <router-view />
 </template>
 
-<script>
-import './charts/ChartjsConfig';
-</script>
+<script></script>
 
